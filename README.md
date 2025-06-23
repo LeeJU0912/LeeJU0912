@@ -1,8 +1,8 @@
-# 👋 HELLO!
+# 👋 Hi, There!
 
 My name is JaeUk Lee.
 
-I'm interested in ML, Back-end Developing.
+I'm interested in HPC Distributed System, Web-development.
 
 
 
